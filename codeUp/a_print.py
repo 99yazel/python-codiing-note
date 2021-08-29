@@ -1,3 +1,4 @@
+# num 1~8
 print('Hello')
 print('Hello','World')
 # 프린트로 컴마를 주면 자동으로 사이에 공백을 출력한다.
