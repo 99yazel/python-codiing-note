@@ -59,3 +59,5 @@ print(s[0:2],s[2:4],s[4:6],sep="  ");
 a,b,c = input().split(":");
 print(b);
 # num 24
+w1, w2 = input().split();
+print( w1+ w2);
