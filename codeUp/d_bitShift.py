@@ -186,4 +186,3 @@ def check(value):
 		print('winter');
 
 check(a)
-# num 71
